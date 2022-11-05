@@ -36,6 +36,10 @@ export const Contact = () => {
                         <th>Telepon</th>
                         <td>088213912648</td>
                     </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td>gutri363696@gmail.com</td>
+                    </tr>
                 </table>
             </section>
         </aside>

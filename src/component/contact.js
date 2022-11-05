@@ -32,6 +32,10 @@ export const Contact = () => {
                         <th>Institusi</th>
                         <td>Universitas Pertahanan Republik Indonesia</td>
                     </tr>
+                    <tr>
+                        <th>Telepon</th>
+                        <td>088213912648</td>
+                    </tr>
                 </table>
             </section>
         </aside>
